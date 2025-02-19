@@ -4,4 +4,4 @@ A satisfactory dedicated server using docker
 
 # How to run?
 
-1.
+> docker compose up -d
